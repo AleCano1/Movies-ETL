@@ -1,5 +1,5 @@
 # Movies-ETL
-Amazing prime video team wants to known which movies will become popular and then buy the stearmming rights. 
+Amazing prime video team wants to known which movies will become popular and then buy the streamming rights. 
 
 ## Overview of Project 
 ### Purpose 
